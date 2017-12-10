@@ -1,0 +1,424 @@
+/* 
+General Pokemon http://www.neoseeker.com/forums/21237/ 
+*/
+/* Note: Badge Order - Clan Leader > Gym Leader > Mentor > Trusted Cloner > SV Checker > Giver > Trade Partner > Artist > Oracle */
+
+
+/* Clan Leaders */
+
+img.avatar[data-username="Hmszelda"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Lil YoshiXD"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Golden Groudon 7 5 8 19"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="GlaceonGuy"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Murderer"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Zaicon"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Shadow Bolt"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Shiny"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Shadowz"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Slash"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="shiny lover LS"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="insanoflex7"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="alroy214"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+
+
+/* Mentors */
+
+
+/* Trusted Cloners */
+img.avatar[data-username="CalvinP"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Outlaw1415"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="Illyasviel"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="KsqueaKJ"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Mudkieps"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="CycloneGU"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="ClarkeAvellanosa"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="Last Impulse"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="kirk_blood"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="YoursV"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Niz2425"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="readergirl12"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Crash1882"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="debbysaurus"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="consolatatca"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="shinymegalucario"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Charizard_Rulez84"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="LordSimba"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Kcimz00"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Viacine"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+
+/* SV Checkers */
+
+/* Givers */
+
+img.avatar[data-username="discoverthemetroid"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="N3WM4N21"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Dennyboy94"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="mste1602"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="raijuu"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Unassuring"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Spekpony"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="lilbigbrat85"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Aida"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Shadowolf"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="EimiHime"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+
+
+/* Trade Partners */
+
+
+
+
+/* Artists */
+img.avatar[data-username="jealousbean"] + br + br + span:before {
+    content: url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Grayson"] + br + br + span:before {
+    content: url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="aikopotz"] + br + br + span:before {
+    content: url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+
+/* Oracles */
+
+img.avatar[data-username="IEatBabies"] + br + br + span:before {
+    content: url('http://i.imgur.com/Owpt6c5.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+
+
+/* Multiple badge list */
+
+img.avatar[data-username="Saku"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png') url('http://i.imgur.com/6sIfeQy.png') url('http://i.imgur.com/F3ZfpYE.png') url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 200px;  
+}
+img.avatar[data-username="Nellidae97"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/F3ZfpYE.png') url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="Adorible_lil_Chick82"] + br + br + span:before {
+    content: url('http://i.imgur.com/6sIfeQy.png') url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/F3ZfpYE.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="jmargerum"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/F3ZfpYE.png') url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Vast"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png') url('http://i.imgur.com/jd2DNM6.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Yakkov"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;   
+}
+img.avatar[data-username="hood135"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png') url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Jeremy"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/Nisn6QT.png') url('http://i.imgur.com/FFa94gy.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Neolord"] + br + br + span:before {
+    content: url('http://i.imgur.com/9PfuKH0.png') url('http://i.imgur.com/6sIfeQy.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
+img.avatar[data-username="Shadowolf"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png') url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Qwert"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png') url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="ViceeNL"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png') url('http://i.imgur.com/FFa94gy.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Raes"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png') url('http://i.imgur.com/xjwtRhp.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Dev"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/Nisn6QT.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="YoursV"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/F3ZfpYE.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Cloyphish"] + br + br + span:before {
+    content: url('http://i.imgur.com/jd2DNM6.png') url('http://i.imgur.com/Nisn6QT.png') url('http://i.imgur.com/FFa94gy.png');
+    display: block;
+    height: 50px;
+    width: 150px;
+}
+img.avatar[data-username="Gwenorla"] + br + br + span:before {
+    content: url('http://i.imgur.com/Nisn6QT.png') url('https://i.imgur.com/FFa94gy.png');
+    display: block;
+    height: 50px;
+    width: 150px; 
+}
