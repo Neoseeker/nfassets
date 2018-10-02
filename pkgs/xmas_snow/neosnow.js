@@ -561,7 +561,7 @@ $(document).ready(function() {
 
 
         /*CURSOR STYLES*/
-        var cursorText = '<link href="http://cdn.staticneo.com/nfassets/pkgs/xmas_snow/snowstyle.css" rel="stylesheet" type="text/css"/>';
+        var cursorText = '<link href="https://cdn.staticneo.com/nfassets/pkgs/xmas_snow/snowstyle.css" rel="stylesheet" type="text/css"/>';
         $('body').append(cursorText);
 
         $("#snowbox").show();
